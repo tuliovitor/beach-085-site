@@ -200,6 +200,6 @@ botoesExistentes.forEach(botao => {
 
 <div align="center">
 
-Feito com muito ☀️ e muito 🌊 — em Fortaleza, CE
+Feito com muito ☀️ e muito 🌊 — em Pacatuba, CE
 
 </div>
